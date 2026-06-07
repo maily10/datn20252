@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(pip install pyvi --quiet 2>&1)",
+      "PowerShell(python -c \"import pyvi; from pyvi import ViTokenizer; print\\('pyvi OK:', ViTokenizer.tokenize\\('H�a Ph�t b�o lai'\\)\\)\")",
+      "PowerShell(Copy-Item e:\\\\20252\\\\datn\\\\crawler\\\\test\\\\news_classifier\\\\config\\\\sectors_draft.yml e:\\\\20252\\\\datn\\\\crawler\\\\test\\\\news_classifier\\\\config\\\\sectors.yml -Force)",
+      "PowerShell($env:PYTHONIOENCODING=\"utf-8\"; Set-Location e:\\\\20252\\\\datn\\\\crawler\\\\test\\\\news_classifier; python tools\\\\build_sector_keywords.py 2>$null | Select-Object -Last 30; Copy-Item config\\\\sectors_draft.yml config\\\\sectors.yml -Force; Write-Output \"---SECTORS PREVIEW---\"; Get-Content config\\\\sectors.yml -Encoding UTF8 | Select-Object -First 60)",
+      "PowerShell($env:PYTHONIOENCODING=\"utf-8\"; Set-Location e:\\\\20252\\\\datn\\\\crawler\\\\test\\\\news_classifier; python classify_news.py --vi-only --batch-size 16 2>&1 | Out-File -FilePath e:\\\\20252\\\\datn\\\\crawler\\\\test\\\\news_classifier\\\\classify_full.log -Encoding utf8)",
+      "PowerShell($p = \"e:\\\\20252\\\\datn\\\\crawler\\\\stocknewscrawl\\\\vnstocknewsdata\\\\news_labels.csv\"; if \\(Test-Path $p\\) { Remove-Item $p; \"Deleted\" } else { \"Not exists\" }; Get-Process -Name python,python3.12 -ErrorAction SilentlyContinue | ForEach-Object { Stop-Process -Id $_.Id -Force -ErrorAction SilentlyContinue; \"Killed PID $\\($_.Id\\)\" }; Start-Sleep -Seconds 2; Get-Process -Name python,python3.12 -ErrorAction SilentlyContinue | Measure-Object | Select-Object -ExpandProperty Count | ForEach-Object { \"Remaining python processes: $_\" })"
+    ]
+  }
+}

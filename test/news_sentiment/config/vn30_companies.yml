@@ -1,0 +1,97 @@
+# Từ điển VN30 — dùng để gắn mã cổ phiếu cho tin tức (Mốc 2, bước gắn mã).
+# Mỗi mã có:
+#   names   : các tên/cụm từ nhận diện công ty trong văn bản (match KHÔNG phân biệt hoa thường)
+#   sector  : ngành (để tham khảo / nhóm)
+# Ticker code (khoá) luôn được match dạng NGUYÊN TỪ VIẾT HOA (vd "HPG", "(VCB)").
+# Lưu ý: "names" nên đủ đặc trưng, tránh từ quá chung gây nhầm.
+
+ACB:
+  names: ["Ngân hàng Á Châu", "Á Châu Bank", "ACB Bank"]
+  sector: "Ngân hàng"
+BCM:
+  names: ["Becamex", "Becamex IDC", "Đầu tư và Phát triển Công nghiệp"]
+  sector: "Bất động sản KCN"
+BID:
+  names: ["BIDV", "Ngân hàng Đầu tư và Phát triển"]
+  sector: "Ngân hàng"
+BVH:
+  names: ["Tập đoàn Bảo Việt", "Bảo Việt"]
+  sector: "Bảo hiểm"
+CTG:
+  names: ["VietinBank", "Vietin Bank", "Ngân hàng Công Thương"]
+  sector: "Ngân hàng"
+FPT:
+  names: ["Tập đoàn FPT", "FPT Corporation", "Công ty FPT"]
+  sector: "Công nghệ"
+GAS:
+  names: ["PV GAS", "PV Gas", "Tổng công ty Khí Việt Nam", "Khí Việt Nam"]
+  sector: "Dầu khí"
+GVR:
+  names: ["Công nghiệp Cao su Việt Nam", "Cao su Việt Nam", "Tập đoàn Cao su"]
+  sector: "Cao su"
+HDB:
+  names: ["HDBank", "HD Bank", "Ngân hàng Phát triển TP"]
+  sector: "Ngân hàng"
+HPG:
+  names: ["Tập đoàn Hòa Phát", "Hòa Phát", "Hoa Phat"]
+  sector: "Thép"
+LPB:
+  names: ["LPBank", "LPBank", "Ngân hàng Lộc Phát", "Liên Việt Post Bank", "LienVietPostBank"]
+  sector: "Ngân hàng"
+MBB:
+  names: ["Ngân hàng Quân đội", "MBBank", "MB Bank", "Ngân hàng MB"]
+  sector: "Ngân hàng"
+MSN:
+  names: ["Tập đoàn Masan", "Masan Group", "Masan"]
+  sector: "Thực phẩm & Đồ uống"
+MWG:
+  names: ["Thế Giới Di Động", "Đầu tư Thế Giới Di Động", "Mobile World", "Điện Máy Xanh", "Bách Hóa Xanh"]
+  sector: "Bán lẻ"
+PLX:
+  names: ["Petrolimex", "Tập đoàn Xăng dầu Việt Nam", "Xăng dầu Việt Nam"]
+  sector: "Dầu khí"
+SAB:
+  names: ["Sabeco", "Bia - Rượu - Nước giải khát Sài Gòn", "Bia Sài Gòn"]
+  sector: "Thực phẩm & Đồ uống"
+SHB:
+  names: ["Ngân hàng Sài Gòn - Hà Nội", "Ngân hàng Sài Gòn Hà Nội", "SHBank"]
+  sector: "Ngân hàng"
+SSB:
+  names: ["SeABank", "SeA Bank", "Ngân hàng Đông Nam Á"]
+  sector: "Ngân hàng"
+SSI:
+  names: ["Chứng khoán SSI", "SSI Securities", "Công ty Chứng khoán SSI"]
+  sector: "Chứng khoán"
+STB:
+  names: ["Sacombank", "Ngân hàng Sài Gòn Thương Tín"]
+  sector: "Ngân hàng"
+TCB:
+  names: ["Techcombank", "Techombank", "Ngân hàng Kỹ Thương"]
+  sector: "Ngân hàng"
+TPB:
+  names: ["TPBank", "TP Bank", "Ngân hàng Tiên Phong"]
+  sector: "Ngân hàng"
+VCB:
+  names: ["Vietcombank", "Ngân hàng Ngoại thương"]
+  sector: "Ngân hàng"
+VHM:
+  names: ["Vinhomes"]
+  sector: "Bất động sản"
+VIB:
+  names: ["Ngân hàng Quốc tế Việt Nam", "Ngân hàng Quốc tế", "VIBank"]
+  sector: "Ngân hàng"
+VIC:
+  names: ["Tập đoàn Vingroup", "Vingroup"]
+  sector: "Bất động sản"
+VJC:
+  names: ["Vietjet Air", "Vietjet", "Hàng không Vietjet"]
+  sector: "Hàng không"
+VNM:
+  names: ["Vinamilk", "Sữa Việt Nam", "Công ty Sữa Việt Nam"]
+  sector: "Thực phẩm & Đồ uống"
+VPB:
+  names: ["VPBank", "VP Bank", "Ngân hàng Việt Nam Thịnh Vượng"]
+  sector: "Ngân hàng"
+VRE:
+  names: ["Vincom Retail", "Vincom"]
+  sector: "Bất động sản"

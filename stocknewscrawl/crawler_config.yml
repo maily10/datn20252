@@ -1,0 +1,29 @@
+# Stock news URL crawler configuration
+# Choose: webname = vneconomy | baodautu | thoibaotaichinh | thitruongtaichinh
+
+#webname: "vneconomy"
+
+#webname: "vneconomy"          # → vneconomy.vn (chứng khoán)
+#webname: "baodautu"           # → baodautu.vn (đầu tư tài chính)
+#webname: "thoibaotaichinh"    # → thoibaotaichinhvietnam.vn
+webname: "thitruongtaichinh"  # → thitruongtaichinhtiente.vn
+# Output directory for results
+output_dpath: "result"
+
+# Logger config path
+logger_fpath: "logger/logger_config.yml"
+
+# Number of concurrent threads for fetching pages
+num_workers: 5
+
+# How many listing pages to crawl per category
+# 200 pages × ~20 articles/page × multiple categories = đủ để lấy ~10000 bài
+total_pages: 200
+
+# Ngày sớm nhất muốn crawl (YYYY-MM-DD).
+# URL crawler sẽ probe ngày bài cuối mỗi page; gặp bài < start_date thì dừng category đó.
+# Để "" để tắt early-stop (chạy đến hết total_pages).
+start_date: "2022-01-01"
+
+# Ngày muộn nhất (lọc ở bước crawl_content). Để "" = không giới hạn (= today).
+end_date: ""

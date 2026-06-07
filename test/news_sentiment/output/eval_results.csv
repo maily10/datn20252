@@ -1,0 +1,303 @@
+title,true,score,polarity,label_3cls,model_score,lex_net
+"Bia Sài Gòn - Quảng Ngãi (BSQ): Quý 1 lãi 41 tỷ đồng, cao gấp gần 6 lần cùng kỳ",positive,0.3744,positive,positive,0.9359,0
+"Đất Xanh (DXG): Năm 2020 chưa ""book"" kịp lợi nhuận, năm 2021 dự đạt lãi sau thuế 1.600-1.700 tỷ đồng",positive,0.2066,positive,positive,0.5166,0
+"Phiên 12/4: Khối ngoại tiếp tục bán ròng, tập trung bán cổ phiếu ngân hàng",negative,-0.0206,negative,neutral,-0.0516,0
+"ĐHCĐ Hà Đô: Quý 1/2021 ước lãi sau thuế 400 tỷ đồng, tăng gần 72% so với cùng kỳ 2020",positive,0.3639,positive,positive,0.9097,0
+"Sơn Hà (SHI) báo lãi quý 1 hơn 40 tỷ, hoàn thành gần 40% kế hoạch năm 2021",positive,0.3755,positive,positive,0.9388,0
+"Rạng Đông (RAL) lãi ròng gần 110 tỷ đồng, EPS đạt 9.109 đồng trong quý 1/2021",positive,0.3731,positive,positive,0.9327,0
+"SCG lên sàn chứng khoán, tăng gần 40% trong ngày chào sàn",positive,0.3687,positive,positive,0.9218,0
+"Hoa Sen (HSG): Lại trình kế hoạch mua 22 triệu cổ phiếu quỹ, thực hiện từ nay đến tháng1/2022",positive,0.2183,positive,positive,0.5458,0
+"VnIndex tăng mạnh 21 điểm, thanh khoản sàn HoSE vọt lên 21,5 nghìn tỷ",positive,0.3845,positive,positive,0.9613,0
+"Traphaco (TRA): Quý 1 lãi 55 tỷ đồng, tăng 35% so với cùng kỳ 2020",positive,0.3822,positive,positive,0.9556,0
+"VnIndex lùi về dưới 1.260 điểm, nhiều cổ phiếu chịu áp lực bán mạnh",negative,-0.1355,negative,negative,-0.3387,0
+"""Không có lý do gì lại đầu tư vào những cổ phiếu siêu rủi ro""",neutral,-0.393,negative,negative,-0.9824,0
+Lịch sự kiện và tin vắn chứng khoán ngày 18/5,neutral,-0.0211,negative,neutral,-0.0527,0
+"Kinh Bắc (KBC) đạt lợi nhuận kỷ lục trong quý 1/2021 với 599 tỷ đồng, cao gấp 11 lần cùng kỳ",positive,0.7664,positive,positive,0.92,1
+"Thanh khoản thị trường tăng mạnh, HoSE báo lãi kỷ lục 553 tỷ đồng trong năm 2020",positive,0.7874,positive,positive,0.9724,1
+"Chứng khoán BSC: VN-Index đủ khả năng vượt cản tâm lý, kết thúc Quý 2/2021 trên ngưỡng 1.250 điểm",positive,0.3854,positive,positive,0.9634,0
+"Ông chủ dự án Vườn Vua (TIG): Quý 1 lãi 30 tỷ đồng, cao gần gấp đôi cùng kỳ 2020",positive,0.3828,positive,positive,0.9569,0
+"Kỳ vọng cược tàu vẫn ở mức cao, Hải An (HAH) đặt kế hoạch lợi nhuận tăng 8% lên 158 tỷ đồng",positive,0.2672,positive,positive,-0.3281,1
+"Mảng Khu công nghiệp bứt phá mạnh, lợi nhuận quý 1 Viglacera tăng 65% so với cùng kỳ 2020",positive,0.791,positive,positive,0.9814,1
+"CC1 giảm mạnh, Công ty Tuấn Lộc vẫn quyết đăng ký bán hết gần 21 triệu cổ phiếu",negative,-0.7731,negative,negative,-0.9368,-1
+"BVSC: “Dòng vốn ngoại có thể chảy vào TTCK Việt Nam từ nửa cuối năm 2021, tập trung vào nhóm Bluechips”",positive,0.1847,positive,positive,0.4617,0
+Bộ Tài chính “tuýt còi” các Công ty chứng khoán “biến tướng” huy động vốn từ khách hàng,negative,-0.3936,negative,negative,-0.9841,0
+"Becamex (BCM): Quý 1 lãi 457 tỷ đồng, tăng 47% so với cùng kỳ 2020",positive,0.3603,positive,positive,0.9008,0
+"HOSE áp dụng cải tiến về kỹ thuật vận hành, tình trạng quá tải đã giảm bớt",positive,0.2456,positive,positive,0.6141,0
+"FIT, HPG, DLG, VN, THB, PVL, MIC, TR1, BVG, GLT, KDM: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3934,negative,negative,-0.9835,0
+“Bắt sóng” đầu tư chứng khoán cùng ứng dụng trí tuệ nhân tạo,neutral,0.3521,positive,positive,0.8802,0
+"VN-Index phá đỉnh lịch sử, điều gì chờ đợi phía trước?",neutral,0.387,positive,positive,0.9675,0
+"Chứng khoán Rồng Việt (VDS): Số lượng cổ đông tăng đột biến lên hơn 2.600 người, quý 1 thực hiện đến 68% kế hoạch năm với 123 tỷ lãi trước thuế",positive,0.3723,positive,positive,0.9307,0
+"Vĩnh Hoàn (VHC): Doanh thu tháng 4/2021 đạt 800 tỷ đồng, các thị trường xuất khẩu đồng loạt tăng tốt",positive,0.3898,positive,positive,0.9746,0
+"Nhựa An Phát Xanh đấu giá thành công 75 triệu cổ phiếu, thu về gần 1.068 tỷ đồng",positive,0.145,positive,positive,0.3625,0
+"Lãi lớn, SCI E&C chốt quyền nhận cổ tức bằng tiền tỷ lệ 70%",positive,0.3938,positive,positive,0.9844,0
+"STB tăng trần với khối lượng khớp lệnh 100 triệu đơn vị, VN-Index bứt phá hơn 10 điểm",positive,0.9368,positive,positive,0.9596,2
+"VNDIRECT lãi 482 tỷ đồng trong quý 1, tăng trưởng 724% so với cùng kỳ 2020",positive,0.3657,positive,positive,0.9143,0
+"Vingroup phát hành 500 triệu USD trái phiếu quốc tế, quyền chọn nhận cổ phiếu VHM giá 123.000 đồng/cp",positive,-0.391,negative,negative,-0.9774,0
+"Gỗ Trường Thành (TTF): Lợi nhuận giảm sau kiểm toán, bị nghi ngờ khả năng hoạt động liên tục",negative,-0.7894,negative,negative,-0.9775,-1
+Nhà đầu tư trong nước tiếp tục mở mới hơn 110.000 tài khoản chứng khoán trong tháng 4,positive,0.2582,positive,positive,0.6456,0
+"Cổ phiếu ngân hàng, chứng khoán đồng loạt điều chỉnh, VN-Index mất mốc 1.250 điểm",negative,-0.0371,negative,neutral,-0.0928,0
+Thấy gì qua chiến lược cổ tức của doanh nghiệp trên sàn chứng khoán?,neutral,0.0038,positive,neutral,0.0096,0
+TPBank (TPB) đăng ký bán hơn 40 triệu cổ phiếu quỹ từ 28/4 đến 27/5,negative,0.017,positive,neutral,0.0424,0
+"Tracodi (TCD): Lợi nhuận quý 1/2021 ước đạt 74 tỷ đồng, cao gấp 3,7 lần cùng kỳ",positive,0.3565,positive,positive,0.8913,0
+"Margin cao như núi, chứng khoán không lo gãy?",neutral,0.3773,positive,positive,0.9433,0
+"VnIndex được dự báo lên 1.300-1.400 điểm, tôi có nên vay bố mẹ 500 triệu đồng để đầu tư chứng khoán?",neutral,0.041,positive,neutral,0.1025,0
+Những con số nổi bật của thị trường chứng khoán Việt Nam quý I/2021,positive,0.3849,positive,positive,0.9622,0
+"ĐHĐCĐ Nam Long (NLG): Phát 60 triệu cổ phiếu với giá không dưới 30.000 đồng/cp để mở rộng quỹ đất, mục tiêu tăng trưởng lãi thuần 32%/năm giai đoạn 2021-2024",positive,0.2182,positive,positive,0.5455,0
+"VNM, HBC, TDG, PMG, C47, OPC, VIG, TV2, APS, CSC, INC: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3913,negative,negative,-0.9782,0
+"Công ty mẹ Minh Phú (MPC): Quý 1 lãi 102 tỷ đồng, giảm 25% so với cùng kỳ 2020",negative,0.0859,positive,neutral,0.2148,0
+Giá dầu Brent tăng cao giúp PVOIL lãi 191 tỷ đồng trong quý 1,positive,0.306,positive,positive,0.765,0
+"ĐHCĐ Gỗ Đức Thành (GDT): Bất ngờ với phương án ESOP, phát hành 5% cổ phiếu ưu đãi cho đối tác công ty",positive,0.3839,positive,positive,0.9597,0
+"Pyn Elite Fund nắm giữ gần 1.700 tỷ đồng chứng chỉ Diamond ETF, đặt niềm tin vào MBB",positive,0.3699,positive,positive,0.9247,0
+"Ngành dệt may phục hồi, quý 1 Vinatex lãi 200 tỷ đồng, tăng 28% so với cùng kỳ",positive,0.7571,positive,positive,0.8967,1
+Lịch sự kiện và tin vắn chứng khoán ngày 22/4,neutral,-0.0545,negative,neutral,-0.1363,0
+Mã lớn trong VN30 là động lực cho thị trường bứt phá,neutral,0.6848,positive,positive,0.716,1
+"Phú Tài (PTB) chốt danh sách cổ đông trả cổ tức tỷ lệ 25,5%",positive,0.0052,positive,neutral,-0.9831,1
+"Gỗ Đức Thành (GDT) lên kế hoạch 7 năm liên tiếp chia cổ tức từ 50% trở lên, đặt mục tiêu lãi 86,4 tỷ đồng trong năm 2021",positive,0.5631,positive,positive,0.4116,1
+"Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 4/5-7/5",positive,0.0132,positive,neutral,0.033,0
+"PNJ tăng hơn 95% lãi ròng sau 4 tháng lên mức 598 tỷ đồng, bán sỉ vàng miếng tăng trưởng mạnh đến 70%",positive,0.393,positive,positive,0.9825,0
+"Dịch covid – 19 được kiểm soát, ""bút bi"" Thiên Long báo lãi tăng mạnh so với quý 1/2020",positive,0.7267,positive,positive,0.8208,1
+May Sông Hồng (MSH) chốt danh sách cổ đông trả cổ tức bằng tiền tỷ lệ 30%,positive,0.0051,positive,neutral,-0.9834,1
+Doanh thu hơn 1 tỷ USD của Vingroup trong quý đầu năm đến từ những gì?,neutral,0.0191,positive,neutral,0.0478,0
+Archegos: Từ quỹ đầu cơ vô danh đến vụ nổ gây sốc ở Phố Wall,neutral,-0.0551,negative,neutral,-0.1378,0
+"Điện Gia Lai (GEG): Sắp phát hành hơn 32 triệu cổ phần, năm 2021 sẽ tiếp tục M&A các dự án điện gió",positive,0.3893,positive,positive,0.9732,0
+"Nhựa An Phát Xanh (AAA) dự kiến doanh thu, lợi nhuận quý I tăng mạnh",positive,0.385,positive,positive,0.9626,0
+"Vitaco (VTO): Quý 1 lãi 29 tỷ đồng, gấp hơn 3 lần cùng kỳ 2020",positive,0.3799,positive,positive,0.9498,0
+"ĐHĐCĐ TTC Land (SCR): Sẽ M&A và mở rộng quỹ đất tại Phú Quốc, quý 2 dự kiến lợi nhuận đột biến 230 tỷ đồng nhờ ""book"" dự án quận 7 và Bình Chánh",positive,0.7854,positive,positive,0.9674,1
+"Dabaco (DBC) sắp phát hành 10,5 triệu cổ phần trả cổ tức 2020, tỷ lệ 10%",positive,0.2676,positive,positive,-0.3271,1
+"ĐHCĐ Viettel Construction (CTR): Đầu tư 2.000 tỷ cho lĩnh vực hạ tầng cho thuê, có thể cán mốc doanh thu 8.000 tỷ đồng trong năm 2021",positive,0.3426,positive,positive,0.8566,0
+Tài khoản chứng khoán tăng đột biến là cơ sở để nhà đầu tư Hoa Kỳ quay lại Việt Nam?,neutral,-0.3076,negative,negative,-0.769,0
+"Petrolimex: Năm 2021 đặt kế hoạch lãi trước thuế 3.360 tỷ đồng, cổ tức tổi thiểu 12%, hoàn thành thoái vốn PG Bank",positive,-0.3202,negative,negative,-0.8005,0
+DAP Vinachem (DDV) lãi quý 1 hơn 35 tỷ đồng trong khi cùng kỳ kinh doanh thua lỗ,positive,-0.7595,negative,negative,-0.9027,-1
+"Người nhà lãnh đạo Thép Tiến Lên đã bán xong số cổ phiếu trị giá 50 tỷ đồng, sẵn sàng tiền để mua nhà ở",neutral,0.3511,positive,positive,0.8778,0
+"VCBS: “Triển vọng vĩ mô lạc quan, VN-Index có thể lên mốc 1.435 điểm trong năm nay”",positive,0.1722,positive,positive,-0.5656,1
+"Danh mục tự doanh của Chứng khoán HSC: Quý 1/2021 đã bán hết các mã MBB, VNM…",negative,0.0315,positive,neutral,0.0788,0
+Vinaconex (VCG): Quý 1 lãi 345 tỷ đồng gấp hơn 5 lần cùng kỳ,positive,0.3823,positive,positive,0.9557,0
+"ĐHCĐ Tập đoàn FLC: Đặt mục tiêu lãi gấp 3 lần 2020, đưa Bamboo Airways lên sàn với giá 60 nghìn đồng/cổ vào quý 2/2021",positive,0.3774,positive,positive,0.9434,0
+"CEO Chứng khoán Bản Việt: Chúng tôi có thể ra khỏi top 5 thị phần môi giới, nhưng tỷ suất lợi nhuận mảng này vẫn cao nhất",positive,0.1909,positive,positive,0.4773,0
+"Không nắm giữ HPG và VIC, hiệu suất danh mục Pyn Elite Fund thua xa VN-Index trong tháng 4",negative,-0.3924,negative,negative,-0.981,0
+"ĐHĐCĐ Chứng khoán Rồng Việt (VDSC): Không sợ mất cơ hội, chỉ sợ mất tiền!",neutral,0.392,positive,positive,0.9799,0
+Xu thế dòng tiền: “Sóng kết quả kinh doanh” còn không?,neutral,0.3149,positive,positive,0.7873,0
+"Bị tag hẳn tên vào bài đăng tố 'làm giá' Bitcoin, âm thầm mua đáy, bán đỉnh, thao túng thị trường, Elon Musk đáp trả 1 câu hút gần 100.000 lượt thích",neutral,-0.946,negative,negative,-0.9825,-2
+"Chứng khoán thăng hoa, ít nhất 100 người đã sở hữu lượng cổ phiếu trên 1.000 tỷ đồng: Tập trung chủ yếu vào VPB, TCB và Hòa Phát",positive,-0.3929,negative,negative,-0.9822,0
+"BID trần, PLX tăng mạnh cuối phiên, VnIndex lên ngưỡng 1.284 điểm",positive,0.3826,positive,positive,0.9565,0
+"Kỷ lục chưa từng có: Nhà đầu tư trong nước mở mới 113.191 tài khoản chứng khoán trong tháng 3, bằng xấp xỉ 30% cả năm 2020",neutral,-0.3922,negative,negative,-0.9804,0
+Fortex (FTM): Quý 1 lỗ tiếp 47 tỷ đồng,negative,-0.3813,negative,negative,-0.9532,0
+Nhiều mã chứng quyền tăng bằng lần 6 tháng qua giúp nhà đầu tư kiếm bộn,positive,0.3693,positive,positive,0.9232,0
+"Gỗ Trường Thành (TTF): Quý 1/2021 lỗ ròng 40 tỷ đồng, vốn chủ đang âm 624 tỷ",negative,-0.7905,negative,negative,-0.9801,-1
+"Bánh kẹo Hải Hà (HHC): Quý 1 lỗ 9,5 tỷ đồng",negative,-0.3841,negative,negative,-0.9603,0
+"Nhà đầu tư F0 dễ sập bẫy ""room"" phím hàng",negative,-0.3903,negative,negative,-0.9758,0
+"Petrosetco (PET): Kế hoạch lợi nhuận tăng 43% lên 200 tỷ đồng, quý 2 sẽ phát hành 4 triệu cổ phiếu ESOP",positive,0.6918,positive,positive,0.7334,1
+HoSE: Khối ngoại bán ròng 12.250 tỷ đồng trong tháng 3/2021,negative,-0.5808,negative,negative,-0.456,-1
+"Vợ CEO VinaCapital chốt lãi cổ phiếu “kỳ lân” VNG, có thể thu về cả nghìn tỷ đồng",positive,0.2892,positive,positive,0.7231,0
+Bất động sản khu công nghiệp – lá bài chưa lật của tập đoàn Sơn Hà,positive,-0.3928,negative,negative,-0.9819,0
+Digiworld có gì mới trong năm 2021?,neutral,0.3667,positive,positive,0.9167,0
+Lịch sự kiện và tin vắn chứng khoán ngày 29/03,neutral,-0.0864,negative,neutral,-0.2161,0
+"Yeah1 (YEG): Chủ tịch Nguyễn Ảnh Nhượng Tống đã bán ra 250.000 cổ phiếu, giảm sở hữu xuống còn 24,72% vốn",negative,-0.0165,negative,neutral,-0.0412,0
+"Giá trị khớp lệnh Hose lập kỷ lục 20.000 tỷ, VN-Index tăng mạnh nhất Châu Á phiên 12/4",positive,0.3769,positive,positive,0.9423,0
+"CVT chi trả cổ tức bằng tiền tỷ lệ 20%, mua 3,6 triệu cổ phiếu sau khi lộ diện cổ đông chi phối",positive,0.0306,positive,neutral,-0.9196,1
+"Lỗ thêm 25 tỷ đồng, Tổng Xây lắp Dầu khí (PVX) nâng lỗ luỹ kế lên gần 4.000 tỷ đồng",negative,-0.3916,negative,negative,-0.9791,0
+"FPT Telecom (FOX) báo lãi sau thuế 461 tỷ đồng trong quý 1, tăng 29% so với cùng kỳ",positive,0.3029,positive,positive,0.7572,0
+"Chủ tịch Sunhouse 'khoe' lỗ 8,5 tỷ đồng khi đầu tư chứng khoán",negative,-0.3798,negative,negative,-0.9494,0
+"Halico chỉ lỗ hơn 1 tỷ đồng trong quý 1/2021, doanh thu bán rượu tăng đột biến 34%",neutral,-0.1843,negative,negative,-0.4607,0
+Lịch sự kiện và tin vắn chứng khoán ngày 30/03,neutral,-0.2449,negative,negative,-0.6123,0
+Chủ tịch HĐQT Tập đoàn Nam Mê Kông (VC3) đăng ký mua gần 15 triệu cổ phiếu VC3,positive,0.259,positive,positive,0.6476,0
+Lịch sự kiện và tin vắn chứng khoán ngày 31/03,neutral,-0.0828,negative,neutral,-0.2071,0
+KBSV: “Bất cứ nhịp điều chỉnh sâu nào của thị trường đều là cơ hội tích lũy cổ phiếu”,positive,-0.3929,negative,negative,-0.9822,0
+"Cơ điện lạnh (REE) báo lãi quý 1 tăng 70%, lên 471 tỷ đồng",positive,0.1892,positive,positive,0.4731,0
+"Thị trường chứng khoán tăng mạnh đưa giá cổ phiếu lên cao: Nhiều doanh nghiệp GEX, LCG, TTF, ROS… tranh thủ phát hành huy động hàng ngàn tỷ đồng vốn trên sàn",positive,0.2621,positive,positive,0.6552,0
+"Quỹ từ thiện của Bill Gates và vợ là một trong hai cổ đông lớn nhất của VEIL, quỹ đầu tư quản lý 2 tỷ USD cổ phiếu Việt Nam",positive,0.3711,positive,positive,0.9278,0
+Thị trường chứng khoán Việt Nam có sức phục hồi mạnh nhất Đông Nam Á và lọt Top 10 thế giới,positive,0.7937,positive,positive,0.9883,1
+"LDG, NLG, CRE, HNG, ITA, TEG, PAC, TRT, PTL, SHB, VC3, MHL: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3919,negative,negative,-0.9798,0
+"Gilimex (GIL) bất ngờ trình phương án chào bán riêng lẻ 16,8 triệu cổ phiếu với giá 35.000 đồng/cp, bằng nửa giá thị trường",negative,-0.0236,negative,neutral,-0.0591,0
+Kienlongbank đã bán xong cổ phiếu STB?,neutral,0.0466,positive,neutral,0.1164,0
+FPT Online (FOC) chốt danh sách cổ đông nhận cổ tức bằng tiền tỷ lệ 200%,positive,-0.386,negative,negative,-0.9651,0
+"Thua lỗ gần 1.000 tỷ đồng, bị nghi ngờ khả năng hoạt động, cổ phiếu DLG vẫn tăng trần 7 phiên liên tiếp",positive,0.0281,positive,neutral,0.0702,0
+Lịch sự kiện và tin vắn chứng khoán ngày 29/4,neutral,-0.0277,negative,neutral,-0.0693,0
+Dược Hậu Giang (DHG) chốt quyền trả cổ tức năm 2020 bằng tiền tỷ lệ 40%,positive,0.3296,positive,positive,-0.1721,1
+"Chủ tịch FPT ""khoe"" công ty tạo ra 200 triệu phú đô la khi lên sàn, lái xe cũng có tiền cho con đi du học",positive,0.3944,positive,positive,0.9859,0
+"Nợ 400 tỷ đồng, chỉ thu được 200 triệu đồng nên cưỡng chế hóa đơn Thuduc House",negative,-0.1835,negative,negative,-0.4587,0
+"VDSC: Ngành thép vẫn tăng trưởng sang quý 2/2021 khi đơn hàng đã ‘full’ đến giữa tháng 8, HPG và Formosa tăng mạnh thị phần thép xây dựng",positive,0.388,positive,positive,0.97,0
+"STC: Quý 1 lãi 2,3 tỷ đồng cao gấp gần 5 lần cùng kỳ 2020",positive,0.3833,positive,positive,0.9582,0
+Lịch sự kiện và tin vắn chứng khoán ngày 28/4,neutral,-0.0107,negative,neutral,-0.0267,0
+IPO doanh nghiệp này đang thu hút các nhà đầu tư am hiểu bất động sản,positive,0.2978,positive,positive,0.7446,0
+Minh Phú (MPC): Năm 2021 đặt mục tiêu lãi 1.400 tỷ đồng cao gấp đôi 2020,positive,0.3576,positive,positive,0.894,0
+"Công suất điện của Gelex sẽ tăng gấp đôi lên 240MW, mảng cáp điện có thể gặp khó do giá đồng",negative,0.0226,positive,neutral,0.0566,0
+VCSC: Nhà đầu tư đang chờ xác nhận liệu thị trường có thể hấp thụ được lượng lớn cổ phiếu đã bán ra hay bắt đầu một quá trình phân phối,neutral,-0.0071,negative,neutral,-0.0178,0
+"Mã chứng khoán liên quan tới Techcombank tăng 3,5 lần trong vòng 1 tháng",positive,0.2654,positive,positive,0.6635,0
+Đá Núi Nhỏ (NNC) chốt quyền tạm ứng cổ tức đợt 2/2020 bằng tiền tỷ lệ 18%,positive,0.0268,positive,neutral,0.067,0
+"Trong 10 năm qua, chứng khoán Việt Nam có xác suất giảm điểm cao nhất vào quý 2",negative,-0.3575,negative,negative,-0.8938,0
+"Phiên 7/4: Khối ngoại tiếp tục bán ròng, tập trung bán CTG, VNM",negative,-0.1018,negative,negative,-0.2544,0
+"Tổng công ty 36 (G36) điều chỉnh giảm 50% lãi sau thuế sau kiểm toán do trích lập dự phòng, lên kế hoạch niêm yết HNX",negative,-0.4782,negative,negative,-0.1995,-1
+ĐHĐCĐ Chứng khoán FPT (FPTS): Đặt mục tiêu lãi 260 tỷ đồng năm 2021 trên cơ sở VN-Index dao động quanh 1.250-1.300 điểm,positive,0.188,positive,positive,0.4701,0
+Vai trò của Bầu Thuỵ tại LienVietPostBank,neutral,0.1729,positive,positive,0.4323,0
+Những Công ty chứng khoán nào còn nhiều dư địa cho vay margin?,neutral,-0.0355,negative,neutral,-0.0887,0
+"VinGroup chỉ bán ra hơn 12 triệu cổ phiếu Vinatex (VGT), bằng một nửa số lượng đăng ký bán",negative,-0.3502,negative,negative,-0.8756,0
+"EVE đặt kế hoạch lợi nhuận 2021 tăng hơn 70%, dự kiến mua 3 triệu cổ phiếu quỹ.",positive,0.2806,positive,positive,0.7016,0
+"Nhiệt điện Quảng Ninh (QTP): Doanh thu giảm sâu, vẫn có lãi hơn 117 tỷ đồng trong quý 1",positive,-0.3439,negative,negative,0.1362,-1
+Fubon FTSE Vietnam ETF sẽ giao dịch như thế nào?,neutral,0.0037,positive,neutral,0.0092,0
+Lịch sự kiện và tin vắn chứng khoán ngày 1/4,neutral,-0.1218,negative,negative,-0.3044,0
+"Phiên 27/4: Thị trường rung lắc mạnh, khối ngoại tiếp tục “gom” hơn 400 tỷ đồng cổ phiếu",positive,0.3909,positive,positive,0.9772,0
+Khối ngoại mua ròng đột biến hơn 2.300 tỷ đồng trong phiên 9/4,positive,0.6758,positive,positive,0.6935,1
+FPT chốt danh sách cổ đông phát hành 118 triệu cổ phiếu trả cổ tức,positive,0.0056,positive,neutral,-0.9821,1
+Vinaconex quyết định dùng hơn 36 triệu cổ phiếu quỹ chia thưởng cho cổ đông,positive,0.0464,positive,neutral,0.116,0
+"Lỗ lũy kế vượt quá số vốn điều lệ thực góp, Ngoprexco (NGC) có khả năng bị hủy niêm yết",negative,-0.9465,negative,negative,-0.9837,-2
+"Bamboo Airways cũng muốn IPO tại Mỹ, kỳ vọng định giá 4 tỷ USD",neutral,0.1335,positive,positive,0.3337,0
+"BOT Cầu Thái Hà ""tố"" xe tránh qua cầu Hưng Hà nhưng vẫn ""mượn đường"" 1,6km mà không trả phí",neutral,-0.389,negative,negative,-0.9725,0
+"Tăng trần 11 phiên, Nguyễn Kim đăng ký bán 9 triệu cổ phần Angimex (AGM)",negative,0.7389,positive,positive,0.8513,1
+Chứng khoán Bản Việt (VCI) chuẩn bị phát hành cổ phiếu thưởng tỷ lệ 1:1,positive,0.2914,positive,positive,-0.2675,1
+"Doanh nghiệp vàng mã duy nhất trên sàn: Quý đầu năm 2021 báo lãi gấp đôi cùng kỳ, cổ phiếu tăng gấp rưỡi từ đầu năm",positive,0.3923,positive,positive,0.9808,0
+"Thêm 1 công ty con của Tổng công ty Lương Thực Miền Bắc tiến hành IPO, đưa gần 1,7 triệu cổ phiếu ra chào bán",neutral,-0.3801,negative,negative,-0.9502,0
+Khang Điền thông qua phương án phát hành 56 triệu cổ phiếu trả cổ tức,positive,0.0145,positive,neutral,-0.9598,1
+Sonadezi (SNZ) đặt kế hoạch lãi sau thuế trên nghìn tỷ năm 2021,positive,0.3157,positive,positive,0.7893,0
+"Ngành thép quý 1: Lợi nhuận tăng hàng chục lần so với cùng kỳ, quán quân tăng trưởng thuộc về doanh nghiệp có lãi gấp 30 lần",positive,0.7865,positive,positive,0.9702,1
+"Bamboo Capital (BCG): Năm 2021 tiếp tục M&A các dự án tiềm năng, trình kế hoạch lợi nhuận tăng 203% lên 806 tỷ đồng",positive,0.7888,positive,positive,0.976,1
+Lịch chốt quyền nhận cổ tức bằng tiền của 6 doanh nghiệp,positive,0.0019,positive,neutral,0.0047,0
+"SSI Research: Triển vọng lợi nhuận nhiệt điện tiêu cực trong năm 2021, cung cầu điện sẽ cân bằng trong năm 2022",negative,-0.0041,negative,neutral,0.9858,-1
+"Hà Đô (HDG) tái cấu trúc mảng năng lượng, đặt kế hoạch đi ngang trong năm 2021",neutral,-0.0002,negative,neutral,-0.0006,0
+Siam Brothers Việt Nam kỳ vọng lợi nhuận tăng đột biến,neutral,0.0065,positive,neutral,-0.9798,1
+IDJ tặng đêm nghỉ 5 sao cho tất cả cổ đông,neutral,0.3962,positive,positive,0.9904,0
+"Khối ngoại không còn mua MWG, FPT với mức giá chênh hàng chục phần trăm, phải chăng cổ phiếu “kín room” đã hết hấp dẫn?",negative,0.058,positive,neutral,0.145,0
+Giá dầu tăng mạnh tác động ra sao tới cổ phiếu dầu khí?,neutral,0.0051,positive,neutral,0.0127,0
+Vụ quỹ đầu tư Archegos sụp đổ: Vì sao Goldman Sachs và Morgan Stanley có thể thoát hàng còn Nomura và Credit Suisse cay đắng chịu lỗ hàng tỷ USD chỉ trong vài ngày?,negative,-0.3903,negative,negative,-0.9758,0
+Quỹ liên quan tới Dragon Capital chuẩn bị “rót” hơn 1.000 tỷ đồng vào TTCK Việt Nam thông qua quỹ VFMVSF,positive,-0.2843,negative,negative,-0.7108,0
+"ĐHCĐ Nhựa Pha Lê (PLP): Đặt tham vọng lớn với thị trường VLXD Mỹ, kế hoạch lãi 45 tỷ đồng trong năm 2021",positive,0.3877,positive,positive,0.9693,0
+KDH: Tổ chức Đại hội đồng cổ đông thường niên năm 2021,neutral,0.2077,positive,positive,0.5193,0
+Gỗ Trường Thành (TTF) vẫn chưa xử lý được khoản nợ quá hạn 123 tỷ tại DongA Bank,negative,-0.1427,negative,negative,-0.3568,0
+Áp lực giá vốn khiến Nhựa Bình Minh (BMP) báo lãi 84 tỷ đồng - thấp nhất trong vòng 5 năm qua,negative,0.0149,positive,neutral,0.0373,0
+Lịch chốt quyền nhận cổ tức bằng tiền của 7 doanh nghiệp,positive,0.0001,positive,neutral,0.0003,0
+"Sau Dragon Capital, đến lượt VinaCapital muốn thoái vốn khỏi KDH",negative,-0.085,negative,neutral,-0.2124,0
+"VnDirect (VND) triển khai phương án phát hành 214 triệu cổ phiếu, tăng vốn điều lệ lên gấp đôi",positive,0.0434,positive,neutral,0.1086,0
+"D2D đặt kế hoạch lãi đi ngang với 268 tỷ đồng năm 2021, đề xuất chia cổ tức năm 2020 tỷ lệ 35%",positive,0.5928,positive,positive,0.486,1
+"Sau phiên IPO cháy hàng, danh hiệu doanh nghiệp ngành muối duy nhất trên sàn sắp có ""truyền nhân""?",neutral,0.3438,positive,positive,0.8595,0
+"HoSE: Môi giới tuyên truyền sai tình trạng quá tải, yêu cầu sếp CTCK giám sát nhân viên",negative,-0.3936,negative,negative,-0.9841,0
+Đầu tư Sài Gòn VRG (SIP) bất ngờ báo lãi quý 1 gấp 4 lần cùng kỳ,positive,0.3722,positive,positive,0.9306,0
+Nhà Khang Điền (KDH): Năm 2021 đặt mục tiêu lãi 1.200 tỷ đồng,positive,0.1771,positive,positive,0.4428,0
+"HQC tăng 150% từ đầu năm, một lãnh đạo Địa ốc Hoàng Quân muốn bán bớt 3,5 triệu cổ phiếu để giải quyết nhu cầu tài chính",negative,-0.3781,negative,negative,-0.9452,0
+"Phiên 7/5: Khối ngoại tiếp tục bán ròng gần 320 tỷ đồng, tập trung bán VPB, HPG",negative,-0.3476,negative,negative,-0.8689,0
+"Bùng nổ trong ngày đầu tháng 4, VN-Index lên mức cao nhất trong lịch sử",positive,-0.3466,negative,negative,-0.8665,0
+"Liên tục ""lướt sóng"", nhóm Dragon Capital lại mua thêm 1,2 triệu cổ phiếu HPG trong những ngày đầu tháng 4",positive,0.3903,positive,positive,0.9758,0
+Lịch sự kiện và tin vắn chứng khoán ngày 19/4,neutral,-0.0547,negative,neutral,-0.1368,0
+Khối ngoại tiếp tục mua ròng gần 100 tỷ đồng trong phiên 5/4,positive,0.3527,positive,positive,0.8817,0
+"Nomura và thương vụ thua lỗ 2 tỷ USD do ""margin call""",negative,-0.7883,negative,negative,-0.9746,-1
+"Thủy điện Thác Mơ (TMP): Ghi nhận doanh thu từ nhà máy điện mặt trời, LNST quý 1 gấp đôi cùng kỳ",positive,0.2847,positive,positive,0.7118,0
+Thế giới Di động (MWG): Lợi nhuận 2 tháng đầu năm tăng 18% lên 999 tỷ đồng trong khi doanh thu của ĐMX và TGDĐ không tăng trưởng,positive,0.128,positive,positive,0.3201,0
+Công ty Thống Nhất (BAX) chốt danh sách cổ đông chi cổ tức đợt 2/2020 bằng tiền tỷ lệ gần 131%,positive,0.0358,positive,neutral,0.0895,0
+"TAR giảm mạnh, Tổng Giám đốc Nông nghiệp Công nghệ cao Trung An vẫn đăng ký bán hết hơn 9 triệu cổ phiếu",negative,-0.7081,negative,negative,-0.7743,-1
+"Lãi lớn năm 2020, NET đặt kế hoạch trả cổ tức lên tới 60%",positive,0.6434,positive,positive,0.6124,1
+Nhà Từ Liêm (NTL): Quý 1 lãi 13 tỷ đồng tăng 11% so với cùng kỳ,positive,0.2189,positive,positive,0.5472,0
+"Hoàng Anh Gia Lai (HAG): Bán đi ""đứa con"" nông nghiệp, quy mô tài sản giảm phân nửa, doanh thu cũng chỉ bằng ¼ cùng kỳ với 284 tỷ đồng",negative,-0.3918,negative,negative,-0.9796,0
+Nghịch lý người già phải đứng cho người trẻ ngồi trên tàu điện ngầm và 17 năm hình thành quỹ hưu trí tại Việt Nam,neutral,-0.1922,negative,negative,-0.4806,0
+"Mặc cho chỉ số Vndiamond tăng gần 3%, chứng chỉ Diamond ETF chỉ tăng vỏn vẹn 0,6% trong phiên 20/5",positive,0.0376,positive,neutral,0.0941,0
+"Giám đốc tư vấn đầu tư DCVFM: Khối ngoại không ảnh hưởng quá lớn tới TTCK Việt Nam như một thập kỷ trước, năm 2021 sẽ có thêm 30.000 tỷ cho vay margin",positive,0.3147,positive,positive,0.7868,0
+Lịch chốt quyền nhận cổ tức bằng tiền của 8 doanh nghiệp,positive,-0.0042,negative,neutral,-0.0104,0
+"Doanh thu tăng mạnh, lợi nhuận TNG vẫn giảm 34% trong quý 1/2021",negative,0.4187,positive,positive,0.0508,1
+"VN-Index rơi vào trạng thái “tàu lượn”, nguyên nhân do đâu?",neutral,-0.3919,negative,negative,-0.9797,0
+"Hoàng Huy (HHS): Kế hoạch lãi sau thuế 200 tỷ đồng năm 2021, thông qua quyết định chuyển sàn tạm thời sang HNX",neutral,0.0916,positive,neutral,0.229,0
+"Digiworld (DGW) tăng trưởng 133% lãi sau thuế trong quý 1/2021, ước đạt 105 tỷ đồng",positive,0.3571,positive,positive,0.8928,0
+Ngành thủy sản và dệt may phục hồi xuất khẩu nhờ bước tiến vaccine Covid-19?,neutral,0.5541,positive,positive,0.3891,1
+"FIT, CRE, CII, HBC, APH, CKG, HDC, HAG, AAA, PVC, DHC, BBS, BCP, MIC, TNS, MCF, TJC, NSH, NHP: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3891,negative,negative,-0.9728,0
+Lịch chốt quyền nhận cổ tức bằng tiền của 7 doanh nghiệp,positive,0.0001,positive,neutral,0.0003,0
+BĐS Phát Đạt (PDR) triển khai phương án phát hành 51 triệu cổ phiếu trả cổ tức,positive,0.0055,positive,neutral,-0.9823,1
+Thép Đà Nẵng (DNS): Quý 1 lãi 40 tỷ đồng hoàn thành 89% kế hoạch cả năm 2021,positive,0.3796,positive,positive,0.949,0
+Thanh khoản thị trường bùng nổ - MBS tăng vốn khủng,positive,0.3017,positive,positive,0.7542,0
+"Công ty ""séc trắng"" SPAC dành cho ai?",neutral,0.0005,positive,neutral,0.0013,0
+Lịch chốt quyền nhận cổ tức bằng tiền của 15 doanh nghiệp,positive,0.002,positive,neutral,0.0051,0
+"BSC: ""VN-Index duy trì đà tăng trung hạn, kết thúc quý 2 trên ngưỡng 1.250 điểm""",positive,0.3268,positive,positive,0.8169,0
+"Vượt đỉnh cũ đưa giá trị Vingroup lên hơn 19 tỷ USD, tài sản tỷ phú Vượng trên Forbes sắp đạt 10 tỷ USD",positive,0.3917,positive,positive,0.9792,0
+"Cổ phiếu lên đỉnh, con gái chủ tịch Haxaco (HAX) đăng ký bán toàn bộ cổ phiếu",neutral,-0.0282,negative,neutral,-0.0705,0
+"Chi phí cước tàu tăng, lợi nhuận Vĩnh Hoàn giảm 14% trong quý 1/2021",negative,0.0694,positive,neutral,0.1736,0
+Hoàn tiền liền tay – Mở ngay tài khoản hoàn 100% phí giao dịch,positive,0.3962,positive,positive,0.9905,0
+"JP Morgan lạc quan vào TTCK Việt Nam, nâng mục tiêu VN-Index lên 1.400 điểm vào cuối năm 2021",positive,0.4931,positive,positive,0.2367,1
+Cổ phiếu Việt Nam nào hưởng lợi từ sự kiện tắc nghẽn kênh đào Suez?,neutral,-0.0063,negative,neutral,-0.0157,0
+"Dragon Capital: “Lợi nhuận doanh nghiệp năm 2021 sẽ tăng mạnh hơn dự báo, định giá chứng khoán Việt Nam đang khá hấp dẫn”",positive,0.3946,positive,positive,0.9864,0
+"ACB, CRE, GEX, CII, HNG, TNT, CLW, AMS: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.39,negative,negative,-0.9749,0
+"Công ty phân phối Mercedes Haxaco (HAX) lãi 55 tỷ đồng trong quý 1, cao gấp 18 lần cùng kỳ",positive,0.3716,positive,positive,0.9289,0
+"ĐHĐCĐ Masan: VinCommerce đặt mục tiêu có lãi ""mỏng"" trong năm nay",neutral,0.3929,positive,positive,0.9822,0
+[Nhịp đập phái sinh phiên 26/03] Phiên chốt tuần cao trào cảm xúc,negative,0.3929,positive,positive,0.9822,0
+Safoco (SAF) chốt quyền trả cổ tức năm 2020 bằng tiền tỷ lệ 30%,positive,0.3218,positive,positive,-0.1915,1
+"Shark Linh: Nếu có thu nhập 10 triệu đồng/tháng thì nên đầu tư 500 ngàn đến 1 triệu vào chứng khoán, nhưng hãy đầu tư trong dài hạn",neutral,0.2666,positive,positive,0.6665,0
+Cổ phiếu nhóm Viettel giảm mạnh dù thị trường lên đỉnh,neutral,-0.3267,negative,negative,0.1794,-1
+FLC và 7 cổ phiếu khác vào rổ MSCI Frontier Markets Small Cap,positive,0.1518,positive,positive,0.3794,0
+"Kế hoạch doanh thu 6.000 tỷ của Kinh Bắc, nguồn thu đáng kể sẽ đến từ KCN Nam Sơn Hạp Lĩnh",neutral,0.3827,positive,positive,0.9567,0
+Viglacera (VGC) chốt danh sách cổ đông trả cổ tức bằng tiền tỷ lệ 11%,positive,0.0052,positive,neutral,-0.9831,1
+Khải Hoàn Land thu hút sự quan tâm trước ngày IPO,neutral,0.3926,positive,positive,0.9814,0
+VCSC: Lợi nhuận quý 1 gấp 4 cùng kỳ,positive,0.3635,positive,positive,0.9087,0
+Nhiệt điện Quảng Ninh (QTP) điều chỉnh tăng 540 tỷ đồng LNST trên BCTC kiểm toán năm 2020,positive,-0.003,negative,neutral,-0.0074,0
+Nam Tân Uyên (NTC): Quý 1 lãi 113 tỷ đồng tăng 32% so với cùng kỳ,positive,0.2676,positive,positive,0.6691,0
+"HBC, ACB, LPB, HT1, NKG, CSC, TMS, TCD, VSH, BWE, CVT, DTT, BDT, BIO, BWS, ANT, THS: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3922,negative,negative,-0.9806,0
+"Chính thức ra mắt quỹ hưu trí DCVFM: Hoàn thiện mảnh ghép về hệ thống an sinh xã hội, kích thích đầu tư cho tuổi già từ các ưu đãi thuế",positive,0.3946,positive,positive,0.9866,0
+Những con số nổi bật của thị trường chứng khoán Việt Nam tháng 4,positive,0.3383,positive,positive,0.8457,0
+MSCI chính thức đưa THD vào rổ FMI,neutral,0.0131,positive,neutral,0.0328,0
+Lịch sự kiện và tin vắn chứng khoán ngày 23/4,neutral,-0.041,negative,neutral,-0.1026,0
+"SMC: Lập liên doanh với Samsung, đặt mục tiêu tiêu thụ 1,35 triệu tấn thép năm 2021",positive,0.2308,positive,positive,0.5771,0
+"Vicostone (VCS): Quý 1 lãi 371 tỷ đồng, tăng 22% so với cùng kỳ",positive,0.293,positive,positive,0.7325,0
+"Không chỉ được nhận cổ tức, nhà đầu tư còn nhận thêm tiền với giá trị tương đương khi tham dự ĐHCĐ HUD 6",positive,0.3921,positive,positive,0.9802,0
+An Phát Holdings công bố kết quả kinh doanh khả quan Quý 1/2021,positive,0.7947,positive,positive,0.9906,1
+"Thị trường hồi phục, khối ngoại vẫn bán ròng 180 tỷ đồng trong phiên 29/3",negative,0.4185,positive,positive,0.0501,1
+"Một doanh nghiệp cung cấp phụ tùng cho Honda, Yamaha lãi hàng chục tỷ mỗi năm",positive,0.2933,positive,positive,0.7332,0
+"Nhiệt điện Cẩm Phả (NCP) lỗ tiếp 70 tỷ đồng quý 1, nâng tổng lỗ lũy kế lên trên 1.700 tỷ đồng",negative,-0.7904,negative,negative,-0.9799,-1
+Lịch sự kiện và tin vắn chứng khoán ngày 12/5,neutral,-0.0725,negative,neutral,-0.1813,0
+Damsan (ADS): Quý 1 lãi 19 tỷ đồng – cao nhất trong lịch sử niêm yết,positive,0.3709,positive,positive,0.9273,0
+"VDSC: Hàng tồn tích luỹ mạnh, Thép Nam Kim (NKG) có thể đạt đỉnh lợi nhuận trong quý 2/2021",positive,0.391,positive,positive,0.9775,0
+Thêm một Công ty chứng khoán lên kế hoạch tạm chuyển sang HNX để giảm tải hệ thống,positive,-0.0009,negative,neutral,-0.0022,0
+"Quý 1 PVS lãi 164 tỷ đồng, tăng 35% so với cùng kỳ nhờ hoạt động liên kết",positive,0.3605,positive,positive,0.9012,0
+"Viettel Post (VTP) lên kế hoạch niêm yết HoSE, đặt mục tiêu tăng trưởng lợi nhuận 29% trong năm 2021",positive,0.433,positive,positive,0.0864,1
+Xu thế dòng tiền: Có nên “đu” cổ phiếu ngân hàng?,neutral,-0.0071,negative,neutral,-0.0177,0
+Yếu tố nào giúp cổ phiếu Công ty chứng khoán đồng loạt “lên đỉnh”?,neutral,0.2725,positive,positive,0.6812,0
+"Quý 1 lỗ 30 tỷ đồng, Vinasun (VNS) đã lỗ 5 quý liên tiếp",negative,-0.3901,negative,negative,-0.9752,0
+"VHM, NVL, ROS, NLG, PHC, MSB, HAR, HSC, THD, NGC, HAH, KSD, VIG, PVL, TIP, CVT, HDC, SGC, PPE, PVC, VAF, VCX, VHE, HD6: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3445,negative,negative,-0.8613,0
+"Vượt 1.200 điểm, VN-Index sẽ tăng tiếp tới đâu?",positive,0.3107,positive,positive,0.7768,0
+"PVTrans (PVT) báo quý 1 lãi 174 tỷ đồng, tăng gần gấp đôi cùng kỳ 2020",positive,0.3678,positive,positive,0.9194,0
+"Thị giá tăng gấp 5 lần sau khi trở thành cổ đông lớn, cựu sếp Prime Group đang nắm giữ lượng cổ phiếu TCM trị giá gần 900 tỷ đồng",positive,0.1791,positive,positive,0.4477,0
+[ĐHĐCĐ Vinamilk] Bà Mai Kiều Liên: Kế hoạch kinh doanh thận trọng vì tình hình có nhiều bất định,neutral,0.0404,positive,neutral,0.101,0
+"Có 300 triệu đồng, muốn đầu tư chứng khoán mà không có thời gian xem bảng giá thì phải làm sao?",neutral,-0.1668,negative,negative,-0.4169,0
+"SAM Holdings (SAM) báo lãi quý 1 tăng gấp 4,5 lần cùng kỳ nhờ nguồn thu tài chính",positive,0.3314,positive,positive,0.8285,0
+"Thanh khoản thị trường lên hơn 29.000 tỷ đồng, VN-Index giảm điểm bất chấp lực kéo từ nhóm VinGroup",negative,0.0264,positive,neutral,0.066,0
+"Giá cổ phiếu tăng mạnh, doanh nghiệp dược làm ăn ra sao trong quý 1",neutral,0.0548,positive,neutral,0.1371,0
+"Phân bón Bình Điền (BFC) báo lãi quý 1/2021, tăng cao gấp 15 lần cùng kỳ 2020",positive,0.3571,positive,positive,0.8928,0
+"Cơ điện lạnh (REE): Quý 1 lãi 472 tỷ đồng, tăng 72% so với cùng kỳ 2020",positive,0.3701,positive,positive,0.9253,0
+Lịch sự kiện và tin vắn chứng khoán ngày 4/5,neutral,-0.0931,negative,neutral,-0.2328,0
+"Everpia (EVE): Doanh thu đi ngang, lãi quý 1 hơn 4,5 tỷ đồng",positive,0.0587,positive,neutral,0.1467,0
+THACO bị hủy công ty đại chúng theo quy định của Luật Chứng khoán mới,negative,-0.3892,negative,negative,-0.973,0
+"TIP có kế hoạch tăng vốn lên 1.000 tỷ, đặt kế hoạch kinh doanh năm 2021 giảm mạnh",negative,-0.4487,negative,negative,-0.1257,-1
+"Cổ đông SHB khoe lãi 28 tỷ đồng nhờ đi ngược đám đông: ""Đi khắp các sàn, room chứng khoán, mạng xã hội không thấy một ai khuyên mua cổ phiếu SHB""",positive,0.145,positive,positive,0.3625,0
+"KBC, SGR, BVG, C47, CVT, NHA, GMA, DIH, HAS, EFI, VHD, SOV: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3919,negative,negative,-0.9797,0
+"SGN sẵn sàng khai thác chuyến bay quốc tế từ quý 3, đặt kế hoạch tăng trưởng lợi nhuận gần 8% trong năm 2021",positive,0.7809,positive,positive,0.9562,1
+"NVL, MSN tăng mạnh, VnIndex quay đầu tăng 4 điểm",positive,0.3732,positive,positive,0.933,0
+"ĐHĐCĐ FRT: Kế hoạch LNTT tăng 320% lên 120 tỷ đồng, năm 2021 nhận thêm cơ hội từ hãng Apple khi miếng bánh kênh chính ngạch tăng mạnh",positive,0.3898,positive,positive,0.9745,0
+Bối cảnh kinh tế vĩ mô và tác động tới thị trường chứng khoán Việt Nam,neutral,-0.392,negative,negative,-0.9799,0
+FPTS: “VN-Index có thể lên mốc 1.300 điểm trong quý 2 sau khi test lại vùng 1.200 điểm”,positive,0.0576,positive,neutral,0.144,0
+"Masan sẽ xem xét niêm yết The CrownX sau khi tích hợp kinh doanh giữa mảng tiêu dùng, chế biến thịt với hệ thống VinCommerce đạt kỳ vọng",neutral,0.1873,positive,positive,0.4682,0
+Những cổ phiếu tăng sốc từ đầu năm 2021: Quán quân thuộc về cổ phiếu tăng gấp 11 lần,positive,0.0941,positive,neutral,0.2353,0
+"Cổ phiếu bóng đèn Rạng Đông (RAL) bứt phá lên 245.000 đồng, cao nhất sàn chứng khoán sau thông tin đầu tư vào nhà máy công nghệ cao tại Hòa Lạc",positive,0.0654,positive,neutral,-0.8326,1
+"FIT giảm 30% từ đầu năm, một lãnh đạo công ty vẫn quyết bán hơn 4 triệu cổ phiếu để lấy vốn đầu tư",negative,-0.3609,negative,negative,-0.9022,0
+"ĐHCĐ Cen Land (CRE) bất ngờ tăng kế hoạch kinh doanh năm 2021, mục tiêu trở thành nhà phân phối BĐS lớn của Vinhomes với doanh thu 1 tỷ USD",positive,0.384,positive,positive,0.96,0
+ĐHĐCĐ DIC số 1 (DC1): Trả cổ tức 30% và tăng vốn lên gấp đôi ngay trong năm 2021.,positive,0.4415,positive,positive,0.1078,1
+"Camimex (CMX) chào bán 30 triệu cổ phiếu cho cổ đông hiện hữu, tăng vốn điều lệ gấp đôi",positive,0.3913,positive,positive,0.9783,0
+"Tài sản người giàu Việt Nam tăng mạnh, thêm 2 nhân vật tiệm cận danh sách tỷ phú đô la",positive,0.3961,positive,positive,0.9902,0
+"STB, MSN tăng mạnh, VnIndex lên mốc 1.191 điểm",positive,0.3671,positive,positive,0.9178,0
+Quỹ 2 tỷ USD của Dragon Capital tăng mạnh tỷ trọng VPB và NVL vào cuối tháng 4,positive,0.3764,positive,positive,0.941,0
+"Vinhomes đặt mục lãi sau thuế 35.000 tỷ đồng, chia cổ tức 2020 tỷ lệ 45%",positive,0.7524,positive,positive,0.885,1
+"Khối ngoại tiếp tục rút ròng hơn 1.100 tỷ đồng trong tuần từ 19-23/4, bán mạnh VHM, HPG và VPB",negative,-0.3772,negative,negative,-0.943,0
+Tiêu điểm xử phạt tuần qua: Thêm nhiều doanh nghiệp và cá nhân bị UBCKNN phạt,negative,-0.6612,negative,negative,-0.6569,-1
+"Bảo hiểm Quân đội: Đặt mục tiêu lợi nhuận tăng 49%, chốt chia cổ tức 10%",positive,0.5794,positive,positive,0.066,2
+Khối ngoại chi gần 700 tỷ mua cổ phiếu MWG ngay khi “hở room” trong sáng 22/4,positive,0.0174,positive,neutral,0.0435,0
+Khối ngoại tiếp tục bán ròng gần 1.100 tỷ đồng trong phiên 17/5,negative,-0.3095,negative,negative,-0.7737,0
+Lịch chốt quyền nhận cổ tức bằng tiền của 11 doanh nghiệp,positive,0.0001,positive,neutral,0.0002,0
+Những cổ phiếu hiếm hoi vẫn ở đáy dù VN-Index liên tục lập đỉnh,positive,0.0252,positive,neutral,0.063,0
+"MBS: Thị trường phân hóa, VN-Index có thể không tăng mạnh trong tuần 19-23/4",neutral,0.0243,positive,neutral,0.0607,0
+"SAFI đặt kế hoạch lợi nhuận 2021 giảm hơn 16%, chi trả cổ tức 15%",negative,0.0148,positive,neutral,-0.959,1
+Thêm 10.000 tài khoản mở mới tại YSVN - Sức hút từ gói vay margin 6%,neutral,0.3919,positive,positive,0.9797,0
+Cổ phiếu IBC của Apax Holdings được cấp margin trở lại,positive,0.0354,positive,neutral,0.0885,0
+HOSE chính thức lên tiếng về tình trạng quá tải hệ thống và giải pháp khắc phục,neutral,0.3957,positive,positive,0.9893,0
+"FRT, AAA, NLG, PVL, MCG, VFS, HAX, CKV: Thông tin giao dịch lượng lớn cổ phiếu",neutral,-0.3911,negative,negative,-0.9777,0
+"Vinacafe Biên Hòa (VCF) báo lãi 76 tỷ đồng trong quý 1, giảm 26% so với cùng kỳ",negative,0.045,positive,neutral,0.1126,0
+"Petrolimex (PLX): Đại gia xăng dầu Nhật ENEOS Corporation tiếp tục mua 25 triệu cổ phiếu, sắp trở thành cổ đông lớn",positive,0.3944,positive,positive,0.9859,0
+Chứng khoán Bản Việt (VCSC) chuẩn bị phát hành trái phiếu huy động 500 tỷ đồng,positive,-0.3929,negative,negative,-0.9822,0
+"TVC: EPS quý 1/2021 công ty mẹ đạt 1.500 đồng/ cổ phiếu, bằng cả năm 2020",positive,0.2866,positive,positive,0.7166,0
+"Hủy đăng ký công ty đại chúng, Ô tô Trường Hải (Thaco) sẽ không còn công khai các số liệu tài chính",negative,-0.3788,negative,negative,-0.9471,0
+"Vincom Retail lãi ròng 781 tỷ đồng trong quý 1, tăng 59%",positive,0.3776,positive,positive,0.9439,0
+"Tăng 10 điểm cuối phiên, VnIndex chinh phục lại mốc 1.230 điểm",positive,0.3212,positive,positive,0.803,0
+"Điểm danh những doanh nghiệp chốt quyền nhận cổ tức bằng tiền, bằng cổ phiếu và cổ phiếu thưởng tuần từ 17/5-21/5",positive,0.0101,positive,neutral,0.0252,0
+Những doanh nghiệp lãi bùng nổ ngay trong quý 1,positive,0.3956,positive,positive,0.9891,0
+"Quý 1 công ty mẹ cao su Phước Hoà (PHR) lãi 21 tỷ đồng, giảm 85% so với cùng kỳ 2020",negative,0.0489,positive,neutral,0.1222,0

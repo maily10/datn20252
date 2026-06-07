@@ -1,0 +1,3 @@
+[submodule "vnstock-agent-guide"]
+	path = vnstock-agent-guide
+	url = https://github.com/vnstock-hq/vnstock-agent-guide.git

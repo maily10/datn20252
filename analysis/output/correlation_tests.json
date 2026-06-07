@@ -1,0 +1,28 @@
+{
+  "scope": {
+    "n_change_points": 455,
+    "window_before_days": 3,
+    "window_after_days": 1,
+    "n_permutations": 1000,
+    "n_bootstrap": 1000,
+    "seed": 42
+  },
+  "observed": {
+    "coverage": 0.9934,
+    "match_rate": 0.5044,
+    "n_covered": 452,
+    "n_with_signal": 452,
+    "n_match": 228
+  },
+  "permutation_test": {
+    "null_mean": 0.4973,
+    "null_std": 0.0377,
+    "p_value_one_sided": 0.436,
+    "p_value_two_sided": 0.87,
+    "reject_H0_alpha_005": false
+  },
+  "bootstrap_ci_95": {
+    "lower": 0.458,
+    "upper": 0.5531
+  }
+}

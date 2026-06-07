@@ -1,0 +1,169 @@
+# finance_lexicon.yml — Từ điển sắc thái TÀI CHÍNH tiếng Việt (Hướng A: hybrid).
+#
+# Vì Việt Nam CHƯA có từ điển sentiment tài chính chuẩn hoá (kiểu Loughran-McDonald
+# cho tiếng Anh), đây là từ điển tự biên soạn, port khái niệm L&M + bổ sung cụm từ
+# đặc trưng thị trường chứng khoán VN. Dùng để HIỆU CHỈNH model PhoBERT ở các sắc
+# thái tài chính mà model phổ thông chấm sai (vd "chia cổ tức" → model ra neutral).
+#
+# NGUYÊN TẮC BIÊN SOẠN:
+#   - Ưu tiên CỤM TỪ, tránh từ đơn đa nghĩa "tăng"/"giảm" (lợi nhuận giảm = xấu,
+#     nợ xấu giảm = tốt → nghĩa ngược). Vì vậy ghép sẵn ngữ cảnh: "lợi nhuận giảm".
+#   - Khớp KHÔNG phân biệt hoa thường, nguyên cụm (word-boundary 2 đầu).
+#   - "negation" đảo cực của cụm đứng ngay sau nó trong cửa sổ vài từ.
+#
+# Tham khảo: Loughran & McDonald (2011), J. of Finance.
+
+# ── TÍCH CỰC ─────────────────────────────────────────────────────────────────
+positive:
+  # Kết quả kinh doanh
+  - "lãi kỷ lục"
+  - "lợi nhuận kỷ lục"
+  - "doanh thu kỷ lục"
+  - "lãi đột biến"
+  - "lợi nhuận đột biến"
+  - "lợi nhuận tăng"
+  - "lợi nhuận tăng trưởng"
+  - "doanh thu tăng"
+  - "lãi ròng tăng"
+  - "lãi tăng mạnh"
+  - "tăng trưởng lợi nhuận"
+  - "biên lợi nhuận cải thiện"
+  - "có lãi trở lại"
+  - "thoát lỗ"
+  - "lãi sau thuế tăng"
+  # Vượt kế hoạch / kỳ vọng
+  - "vượt kế hoạch"
+  - "vượt chỉ tiêu"
+  - "vượt dự báo"
+  - "vượt kỳ vọng"
+  - "hoàn thành vượt mức"
+  - "hoàn thành kế hoạch"
+  # Cổ tức / cổ phiếu thưởng
+  - "chia cổ tức"
+  - "trả cổ tức"
+  - "cổ tức tiền mặt"
+  - "cổ tức cao"
+  - "thưởng cổ phiếu"
+  - "phát hành cổ phiếu thưởng"
+  # Hợp đồng / dự án
+  - "trúng thầu"
+  - "trúng gói thầu"
+  - "ký hợp đồng"
+  - "ký kết hợp đồng"
+  - "nhận dự án"
+  - "khởi công dự án"
+  # Dòng tiền / khối ngoại
+  - "khối ngoại mua ròng"
+  - "được mua ròng"
+  - "khối ngoại gom"
+  - "tự doanh mua ròng"
+  # Diễn biến giá tích cực
+  - "tăng trần"
+  - "kịch trần"
+  - "tím trần"
+  - "dư mua trần"
+  - "bứt phá"
+  - "khởi sắc"
+  - "hồi phục"
+  - "phục hồi"
+  - "khả quan"
+  - "tích cực"
+  - "lạc quan"
+  - "sôi động"
+  - "đảo chiều tăng"
+  # Định giá / khuyến nghị
+  - "được nâng hạng"
+  - "nâng hạng"
+  - "nâng dự báo"
+  - "nâng khuyến nghị"
+  - "khuyến nghị mua"
+  - "tiềm năng tăng giá"
+
+# ── TIÊU CỰC ─────────────────────────────────────────────────────────────────
+negative:
+  # Thua lỗ
+  - "thua lỗ"
+  - "lỗ ròng"
+  - "lỗ nặng"
+  - "lỗ lũy kế"
+  - "báo lỗ"
+  - "chuyển lỗ"
+  - "lỗ kỷ lục"
+  - "lợi nhuận giảm"
+  - "lợi nhuận sụt giảm"
+  - "doanh thu giảm"
+  - "lãi giảm"
+  - "lãi ròng giảm"
+  - "sụt giảm lợi nhuận"
+  - "lợi nhuận lao dốc"
+  # Nợ / thanh khoản
+  - "vỡ nợ"
+  - "mất khả năng thanh toán"
+  - "chậm trả gốc"
+  - "chậm trả lãi"
+  - "chậm thanh toán"
+  - "khất nợ"
+  - "gia hạn nợ"
+  - "cơ cấu lại nợ"
+  - "nợ xấu"
+  - "trích lập dự phòng"
+  - "gánh nặng lãi vay"
+  - "áp lực đáo hạn"
+  # Diễn biến giá tiêu cực
+  - "giảm sàn"
+  - "nằm sàn"
+  - "dư bán sàn"
+  - "lao dốc"
+  - "rớt giá"
+  - "bốc hơi"
+  - "mất giá"
+  - "bán tháo"
+  - "đỏ lửa"
+  - "lao dốc mạnh"
+  - "giảm mạnh"
+  - "đảo chiều giảm"
+  # Dòng tiền / khối ngoại
+  - "khối ngoại bán ròng"
+  - "bị bán ròng"
+  - "khối ngoại xả"
+  - "tự doanh bán ròng"
+  # Pháp lý / quản trị
+  - "hủy niêm yết"
+  - "hạn chế giao dịch"
+  - "đình chỉ giao dịch"
+  - "diện cảnh báo"
+  - "diện kiểm soát"
+  - "bị cảnh báo"
+  - "bị điều tra"
+  - "khởi tố"
+  - "bắt tạm giam"
+  - "thao túng"
+  - "làm giá"
+  - "vi phạm"
+  - "xử phạt"
+  - "bị phạt"
+  - "truy thu thuế"
+  # Định giá / khuyến nghị
+  - "bị hạ bậc"
+  - "hạ xếp hạng"
+  - "hạ dự báo"
+  - "hạ khuyến nghị"
+  - "khuyến nghị bán"
+  - "tiêu cực"
+  - "ảm đạm"
+  - "bi quan"
+  - "kém khả quan"
+
+# ── PHỦ ĐỊNH ─────────────────────────────────────────────────────────────────
+# Nếu đứng NGAY TRƯỚC một cụm (trong cửa sổ vài từ) → đảo cực cụm đó.
+# vd "không hoàn thành kế hoạch", "chưa có lãi", "không chia cổ tức".
+negation:
+  - "không"
+  - "chưa"
+  - "chẳng"
+  - "khó"
+  - "thiếu"
+  - "mất"
+  - "ngừng"
+  - "dừng"
+  - "hoãn"

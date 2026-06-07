@@ -1,0 +1,28 @@
+Volume_precedes_price/saved_models/*.pkl
+stocknewscrawl/vnstocknewsdata/news_content.csv
+vnstockprice/processed_output_v2/stock_prices.csv
+vnstockprice/supabase_ready/stock_prices.csv
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Python cache and test artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Node dependencies and build output
+node_modules/
+dist/
+
+# Local/editor settings
+.claude/settings.local.json
+
+# Logs
+*.log

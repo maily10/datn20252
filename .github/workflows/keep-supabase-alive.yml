@@ -1,0 +1,27 @@
+name: Keep Supabase Alive
+
+# Chạy mỗi 3 ngày để Supabase không bao giờ chạm mốc 7 ngày không hoạt động
+on:
+  schedule:
+    - cron: '0 3 */3 * *'   # 3h sáng UTC, mỗi 3 ngày
+  workflow_dispatch:         # Cho phép chạy thủ công khi cần
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Supabase REST API
+        env:
+          SUPABASE_URL:  ${{ secrets.SUPABASE_URL }}
+          SUPABASE_KEY:  ${{ secrets.SUPABASE_ANON_KEY }}
+        run: |
+          STATUS=$(curl -s -o /tmp/body -w "%{http_code}" \
+            -H "apikey: $SUPABASE_KEY" \
+            "$SUPABASE_URL/rest/v1/companies?select=symbol&limit=1")
+          echo "HTTP $STATUS"
+          cat /tmp/body
+          if [ "$STATUS" != "200" ]; then
+            echo "::error::Supabase ping failed (HTTP $STATUS)"
+            exit 1
+          fi
+          echo "✅ Supabase alive — sẽ không pause trong 7 ngày tới"

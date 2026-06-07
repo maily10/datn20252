@@ -1,0 +1,40 @@
+{
+  "method": "hybrid_continuous_score",
+  "formula": "s(t) = (1-alpha)*[P(pos)-P(neg)] + alpha*tanh(k*net_lex)",
+  "alpha": 0.6,
+  "k": 0.8,
+  "tau_for_3cls_view": 0.1,
+  "model": "wonrax/phobert-base-vietnamese-sentiment",
+  "lexicon": "config/finance_lexicon.yml",
+  "gold_set": "data/gold_cafef.csv (CafeF 1005)",
+  "split": {
+    "train": 703,
+    "test": 302,
+    "seed": 42,
+    "stratified": true
+  },
+  "results_test": {
+    "polarity": {
+      "hybrid": {
+        "acc": 0.8722,
+        "macro_f1": 0.8271
+      },
+      "baseline_phobert": {
+        "acc": 0.815,
+        "macro_f1": 0.767
+      },
+      "n": 227
+    },
+    "three_class": {
+      "hybrid": {
+        "acc": 0.6457,
+        "macro_f1": 0.5833
+      },
+      "baseline_phobert_argmax": {
+        "acc": 0.5927,
+        "macro_f1": 0.5449
+      },
+      "n": 302
+    }
+  }
+}
